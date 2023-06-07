@@ -1,7 +1,5 @@
-const path = require('path')
-
 export default {
-  root: path.resolve(__dirname, 'src'),
+  root: path.resolve(__dirname, '.'),
   base: 'https://github.com/Potato-inator/socket-client/',
   build: {
     outDir: '../dist'
