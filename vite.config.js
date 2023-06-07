@@ -1,6 +1,6 @@
 export default {
   root: path.resolve(__dirname, '.'),
-  base: 'https://github.com/Potato-inator/socket-client/',
+  base: 'https://github.com/potato-inator/socket-client/',
   build: {
     outDir: '../dist'
   },
